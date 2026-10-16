@@ -31,7 +31,7 @@
 - 🚀 Interested in building REST APIs and database-driven applications.
 - 🌱 Currently strengthening my skills in Spring Boot, Hibernate, SQL, and backend architecture.
 - 🤝 Open to learning opportunities and collaborating on interesting projects.
-- 🎯 Career goal: Become a skilled Java Backend Developer.
+- 🎯 Aspiring Java Backend Developer, passionate about building reliable applications.
 
 ---
 
